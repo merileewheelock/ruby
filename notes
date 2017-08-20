@@ -1,0 +1,17 @@
+Ruby is a true OOP language (very difficult to go procedural)
+- Encapsulation
+-- Bundle all data and methods together
+-- Also hiding stuff that shouldn't be available
+- Abstraction
+-- Share what matters, avoid what doesn't
+- Inheritence
+-- Super/subclass
+-- Car --> Electric Car
+-- Monster --> Vampire
+-- Shape --> Square
+- Polymorphism
+-- Allows you to use the same code to do different things
+-- IN terms of inhertitence, you have a Shape --> Square, Shape --> Circle
+-- shape.draw() AS OPPOSED TO drawSquare(), drawCircle()
+
+- Ruby is a general purpose inerpreted language (doesn't compile) like node, php, or python
